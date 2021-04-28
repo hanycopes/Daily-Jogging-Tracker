@@ -11,9 +11,11 @@ and all kinds of different habits you'd like to have.
 
 # TODO: 
 
-[_] Spawn a new window when a button is pressed
+[x] Spawn a new window when a button is pressed
 
-[_] 
+[_] Look for some resource about timers that use Kivy
+
+[_] Fix navigation 
 
 
 # Process:
